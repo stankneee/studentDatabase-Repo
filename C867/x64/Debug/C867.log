@@ -1,0 +1,14 @@
+﻿  C867.cpp
+  roster.cpp
+C:\Users\Stan\Desktop\this\C867\roster.cpp(35,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stan\Desktop\this\C867\roster.cpp(40,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stan\Desktop\this\C867\roster.cpp(45,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stan\Desktop\this\C867\roster.cpp(50,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stan\Desktop\this\C867\roster.cpp(55,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stan\Desktop\this\C867\roster.cpp(60,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stan\Desktop\this\C867\roster.cpp(64,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stan\Desktop\this\C867\roster.cpp(68,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stan\Desktop\this\C867\roster.cpp(73,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  student.cpp
+  Generating Code...
+  C867.vcxproj -> C:\Users\Stan\Desktop\this\C867\x64\Debug\C867.exe
